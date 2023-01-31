@@ -1,19 +1,33 @@
 header {
-    background-color: antiquewhite;
-    color: rgb(36, 35, 35);
+    background-color: cadetblue;
+    color: antiquewhite;
     text-align: center;
-    font-size: 45px;
+    font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
+    margin: 0;
 }
 article{
     background-color: cadetblue;
     color: antiquewhite;
     text-align: center;
-    font-size: 45px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-bottom: 20px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
 }
 section {
-    background-color: burlywood;
-
+    background-color: cadetblue;
+    color: antiquewhite;
+    font-size: 25px;
+}
+h1 {
+    background-color: cadetblue;
+    color: antiquewhite;
+    font-size: 30px;
+    margin: 0;
+}
+h2 {
+    background-color: cadetblue;
+    color: antiquewhite;
+    font-size: 30px;
+    margin: 0;
 }
